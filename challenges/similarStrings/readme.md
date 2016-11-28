@@ -19,3 +19,5 @@ giggabaj
 1 3
 2 4
 ```
+
+Edit: This challenge deals with comparing matricies.
