@@ -23,3 +23,8 @@ Constraints:
 `0 ≤ int(number) ≤ 9 · 1014`.
 
 * **[output] integer**
+
+
+__
+
+**Credit for Challenge goes to:** [copthuy](https://codefights.com/profile/copthuy)
