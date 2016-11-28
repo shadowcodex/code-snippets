@@ -8,6 +8,8 @@ I will try and keep everything organized for people who stumble upon this reposi
 ## 3. If you use this code somewhere please throw me a credit. It's not required, but just nice.
 ## 4. Have Fun!
 
+Someday I'll hope to use some of this code to write a book. We shall see if that ever comes to fruition.
+
 You might also like my other repository for code learning: http://github.com/shadowcodex/data-theory
 
 Thanks!
