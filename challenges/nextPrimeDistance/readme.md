@@ -12,6 +12,8 @@ The closest prime number to `0` is `2`, so the answer is `2 - 0 = 2`.
 
 `11` is a prime number, so the answer is `11 - 11 = 0`.
 
+__
+
 **Input/Output**
 
 * **[time limit] 4000ms (js)**
