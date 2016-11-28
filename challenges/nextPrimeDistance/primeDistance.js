@@ -19,7 +19,7 @@ function primeDistance(number) {
         nextL -= 2;
     }    
     
-    // find next highest prime
+    // find next higher or lower prime
     while(true){ 
         isPrimeH = isPrime(nextH);
         isPrimeL = isPrime(nextL);
